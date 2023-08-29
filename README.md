@@ -10,9 +10,13 @@ To run the website locally, you will need to have a web server installed on your
 The website consists of the following sections:
 
 Home: This is the landing page of the website that displays your name, profile picture, and a brief introduction about yourself.
+
 About: This section provides more details about your background, skills, interests, and hobbies.
+
 Resume: This section shows your education, work experience, certifications, and awards.
+
 Portfolio: This section showcases your projects that you have done or contributed to.
+
 Contact: This section allows visitors to contact you via email or social media platforms.
 
 The website also has some features such as:
