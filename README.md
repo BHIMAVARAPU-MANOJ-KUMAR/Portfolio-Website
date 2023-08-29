@@ -3,7 +3,7 @@ Personal Portfolio Website. Clone this Repository into your Local machine and ma
 
 This is a brief description of the GitHub repository for your personal portfolio website:
 
-This repository contains the source code and files for creating a personal portfolio website using HTML, CSS, and JavaScript. The website showcases your skills, projects, education, and achievements as a Java TechStack Engineer. You can clone this repository into your local machine and make your own customization according to your preferences. You can also view the live demo of the website at this link(https://bhimavarapu-manoj-kumar.github.io/Portfolio-Website/).
+This repository contains the source code and files for creating a personal portfolio website using HTML, CSS, and JavaScript. The website showcases your skills, projects, education, and achievements as a Java TechStack Engineer. You can clone this repository into your local machine and make your own customization according to your preferences. You can also view the live demo of the website at this link (https://bhimavarapu-manoj-kumar.github.io/Portfolio-Website/).
 
 To run the website locally, you will need to have a web server installed on your machine. You can use any web server of your choice, such as Apache, Nginx, or Node.js. Alternatively, you can use a code editor like Visual Studio Code that has a built-in web server extension. Once you have a web server running, you can open the index.html file in your browser and see the website.
 
